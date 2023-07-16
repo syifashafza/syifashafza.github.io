@@ -1,0 +1,80 @@
+Nama: 
+Nomor HP: 
+Email: 
+Alamat: 
+Metode Pembayaran: 
+Total Harga: Rp 
+Member: 
+
+Nama: 
+Nomor HP: 
+Email: 
+Alamat: 
+Metode Pembayaran: 
+Total Harga: Rp 
+Member: 
+
+Nama: Yuni
+Nomor HP: 33
+Email: add@gmail.com
+Alamat: wqq
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 63000
+Member: diskon 30%
+
+Nama: Yuni
+Nomor HP: 33
+Email: add@gmail.com
+Alamat: wqq
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 63000
+Member: diskon 30%
+
+Nama: sifa
+Nomor HP: 1111
+Email: syifashafza@gmail.com
+Alamat: wewer
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 42000
+Member: diskon 30%
+
+Nama: sifa
+Nomor HP: 1111
+Email: syifashafza@gmail.com
+Alamat: wewer
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 42000
+Member: diskon 30%
+
+Nama: a
+Nomor HP: 11
+Email: sa@gmail.com
+Alamat: wewer
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 35000
+Member: tanpa diskon
+
+Nama: a
+Nomor HP: 11
+Email: sa@gmail.com
+Alamat: wewer
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 35000
+Member: tanpa diskon
+
+Nama: q
+Nomor HP: 1
+Email: sa@gmail.com
+Alamat: q
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 24500
+Member: diskon 30%
+
+Nama: q
+Nomor HP: 1
+Email: sa@gmail.com
+Alamat: q
+Metode Pembayaran: cash on delivery
+Total Harga: Rp 24500
+Member: diskon 30%
+
